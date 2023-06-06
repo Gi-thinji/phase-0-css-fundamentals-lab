@@ -2,4 +2,52 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  
 }
+
+ .navbar {
+  text-align: center;
+ }
+ 
+  .navbar>a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey;
+  
+  
+ }
+
+ 
+ h1 {
+  text-align: center;
+ }
+
+ img {
+  display: block;
+  margin: auto;
+ }
+
+ 
+
+ figcaption {
+  font-size: smaller;
+  text-align: center;
+ }
+
+ #featured-property>p{
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  padding: 25px;
+ }
+
+ #details>div {
+  float: left;
+  background-color:red;
+  text-align: center;
+  width: 25%;
+ }
+
+ 
+ 
+ 
